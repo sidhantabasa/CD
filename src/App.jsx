@@ -5,7 +5,7 @@ import tagline from "./images/tagline.png"
 import logo from "./images/BG.jpg"
 function App() {
   
-  return (
+  return ( 
 
     <>
       {/* <footer className=" bg-slate-900  text-white">
